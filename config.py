@@ -1,6 +1,5 @@
 # config.py
 import os
-
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 PINTEREST_USERNAME = "pediacreative"
 PINTEREST_PASSWORD = "allloveyou123"
